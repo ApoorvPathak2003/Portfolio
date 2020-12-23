@@ -17,6 +17,15 @@ color: beige;
 p {
 color: white;
 }
-.Project Section a:hover {
-color: yellow
+.Project Section a: link {
+color: stone gray;
+}
+.Project Section a: visited {
+color: ;
+}
+.Project Section a: hover {
+color: ;
+}
+.Project Section a: active {
+color: yellow;
 }
