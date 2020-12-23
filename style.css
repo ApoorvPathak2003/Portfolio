@@ -1,9 +1,12 @@
 body {
-background-color: green;
+background-color: black;
 }
 h1 {
-color: blue;
+color: yellow;
 }
 h2 {
-color: yellow;
+color: dodgerblue;
+}
+p {
+color: white;
 }
