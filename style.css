@@ -8,10 +8,11 @@ title {
 font-family: Times New Roman;
 }
 h1 {
-color: yellow;
+color: white;
+background-color: navy;
 }
 h2 {
-color: dodgerblue;
+color: beige;
 }
 p {
 color: white;
