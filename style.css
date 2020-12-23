@@ -18,13 +18,13 @@ p {
 color: white;
 }
 .Project Section a: link {
-color: stone gray;
+color: lightslategray;
 }
 .Project Section a: visited {
-color: ;
+color: mediumseagreen;
 }
 .Project Section a: hover {
-color: ;
+color: mediumpurple;
 }
 .Project Section a: active {
 color: yellow;
