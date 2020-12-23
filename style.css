@@ -4,6 +4,9 @@ text-align: center;
 margin-left: 200px;
 margin-right: 200px;
 }
+title {
+font-family: Times New Roman;
+}
 h1 {
 color: yellow;
 }
