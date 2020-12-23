@@ -17,15 +17,15 @@ color: beige;
 p {
 color: white;
 }
-.Project_Section a:link {
+.project_section a:link {
 color: lightslategray;
 }
-.Project_Section a:visited {
+.project_section a:visited {
 color: mediumseagreen;
 }
-.Project_Section a:hover {
+.project_section a:hover {
 color: mediumpurple;
 }
-.Project_Section a:active {
+.project_section a:active {
 color: yellow;
 }
