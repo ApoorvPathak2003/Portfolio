@@ -1,5 +1,6 @@
 body {
 background-color: black;
+text-align: center;
 }
 h1 {
 color: yellow;
@@ -9,5 +10,4 @@ color: dodgerblue;
 }
 p {
 color: white;
-margin: 500px 500px;
 }
