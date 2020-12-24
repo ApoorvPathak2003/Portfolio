@@ -45,3 +45,11 @@ float: left;
 color: cyan;
 font-size: 25px;
 }
+li {
+display: inline;  
+}
+a {
+padding: 5px;
+display: block;
+background color: white;
+}
