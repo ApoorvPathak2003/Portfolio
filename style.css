@@ -39,7 +39,7 @@ padding: 80px 0;
 cursor: pointer;
 }
 li {
-liststyle-type: none;
+list-style-type: none;
 padding: auto;
 float: left;
 color: cyan;
