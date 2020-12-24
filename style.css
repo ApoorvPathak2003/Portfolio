@@ -32,6 +32,6 @@ text-decoration: underline;
 .project_section a:active {
 color: yellow;
 }
-.img {
+.circle {
 border-radius: 50%;
 }
