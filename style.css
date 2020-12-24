@@ -1,8 +1,6 @@
 body {
 background-color: black;
 text-align: center;
-margin-left: 200px;
-margin-right: 200px;
 }
 title {
 font-family: Times New Roman;
@@ -16,6 +14,8 @@ color: beige;
 }
 p {
 color: white;
+margin-right: 250px;
+margin-left: 250px;
 }
 .project_section a:link {
 color: lightslategray;
