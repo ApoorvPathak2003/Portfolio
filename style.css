@@ -29,6 +29,6 @@ color: mediumpurple;
 .project_section a:active {
 color: yellow;
 }
-img {
+.img {
 border: 10px solid white;
 }
