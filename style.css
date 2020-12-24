@@ -5,6 +5,18 @@ text-align: center;
 title {
 font-family: Times New Roman;
 }
+h1 {
+color: white;
+background-color: navy;
+text-shadow: 2px 2px;
+}
+h2 {
+color: beige;
+text-decoration: underline; 
+}
+p {
+color: white;
+}
 .project_section a:link {
 color: gray;
 text-decoration: none;
@@ -29,16 +41,4 @@ cursor: pointer;
 .topnavigation a {
 color: white;
 padding: 150px 0px 100px 0px;
-}
-h1 {
-color: white;
-background-color: navy;
-text-shadow: 2px 2px;
-}
-h2 {
-color: beige;
-text-decoration: underline; 
-}
-p {
-color: white;
 }
