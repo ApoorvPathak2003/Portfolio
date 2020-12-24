@@ -12,6 +12,7 @@ text-shadow: 2px 2px;
 }
 h2 {
 color: beige;
+text-decoration: underline; 
 }
 p {
 color: white;
