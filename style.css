@@ -38,7 +38,7 @@ padding: 80px 0;
 .span {
 cursor: pointer;
 }
-ul {
+.topnavigation ul {
 list-style-type: none;  
 background-color: white;
 overflow: hidden;
