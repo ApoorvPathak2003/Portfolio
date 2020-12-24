@@ -34,7 +34,7 @@ color: yellow;
 .circle {
 border-radius: 50%;
 cursor: move;
-padding: 150px 0;
+padding: 100px 0;
 .span {
 cursor: pointer;
 }
