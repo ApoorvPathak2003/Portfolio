@@ -29,3 +29,6 @@ color: mediumpurple;
 .project_section a:active {
 color: yellow;
 }
+img {
+border:5px solid white;
+}
