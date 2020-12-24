@@ -1,0 +1,14 @@
+h1 {
+color: white;
+background-color: navy;
+text-shadow: 2px 2px;
+}
+h2 {
+color: beige;
+text-decoration: underline; 
+}
+p {
+color: white;
+margin-right: 250px;
+margin-left: 250px;
+}
