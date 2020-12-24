@@ -21,7 +21,6 @@ margin-left: 250px;
 .project_section a:link {
 color: gray;
 text-decoration: none;
-background-color: cyan;
 }
 .project_section a:visited {
 color: mediumseagreen;
@@ -34,5 +33,5 @@ text-decoration: underline;
 color: yellow;
 }
 .img {
-border: 5px solid white;
+border-style: 5px solid white;
 }
