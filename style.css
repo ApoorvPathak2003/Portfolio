@@ -39,17 +39,14 @@ padding: 80px 0;
 cursor: pointer;
 }
 ul {
-list-style-type: none;
-padding: auto;
-color: cyan;
-font-size: 25px;
+list-style-type: none;  
+background-color: white;
 overflow: hidden;
 }
 li {
-display: inline; 
-float: left;
+float: left;  
 }
 li a {
-padding: 5px;
 display: block;
+padding: 8px;
 }
