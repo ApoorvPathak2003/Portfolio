@@ -1,3 +1,6 @@
+body {
+margin: 100px 100px;
+}
 .project_section a:link {
 color: gray;
 text-decoration: none;
@@ -11,7 +14,4 @@ text-decoration: underline;
 }
 .project_section a:active {
 color: yellow;
-}
-body {
-margin: 100px 100px;
 }
