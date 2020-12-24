@@ -38,7 +38,7 @@ padding: 100px 0;
 .span {
 cursor: pointer;
 }
-.topnavigation a {
+.topnavigation {
 color: white;
 padding: 50px 100px;
 }
