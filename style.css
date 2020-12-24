@@ -39,3 +39,6 @@ cursor: move;
 .span {
 cursor: pointer;
 }
+  .topnaviation a {
+  color: white;
+  }
