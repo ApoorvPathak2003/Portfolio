@@ -38,7 +38,8 @@ padding: 80px 0;
 .span {
 cursor: pointer;
 }
-.topnavigation a {
+ul {
+list-style-type: none;
 padding: auto;
 float: left;
 color: cyan;
