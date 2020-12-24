@@ -19,6 +19,7 @@ margin-left: 250px;
 }
 .project_section a:link {
 color: lightslategray;
+text-decoration: none;
 }
 .project_section a:visited {
 color: mediumseagreen;
@@ -28,7 +29,4 @@ color: mediumpurple;
 }
 .project_section a:active {
 color: yellow;
-}
-.img {
-border: 10px solid white;
 }
