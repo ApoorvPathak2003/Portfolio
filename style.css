@@ -19,12 +19,12 @@ margin-right: 250px;
 margin-left: 250px;
 }
 .project_section a:link {
-color: lightslategray;
+color: gray;
 text-decoration: none;
+background-color: cyan;
 }
 .project_section a:visited {
 color: mediumseagreen;
-background-color: cyan;
 }
 .project_section a:hover {
 color: mediumpurple;
