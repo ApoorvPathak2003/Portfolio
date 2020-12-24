@@ -24,9 +24,11 @@ text-decoration: none;
 }
 .project_section a:visited {
 color: mediumseagreen;
+background-color: cyan;
 }
 .project_section a:hover {
 color: mediumpurple;
+text-decoration: underline;
 }
 .project_section a:active {
 color: yellow;
