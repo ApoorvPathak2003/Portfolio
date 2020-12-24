@@ -30,9 +30,6 @@ cursor: pointer;
 color: white;
 padding: 150px 0px 100px 0px;
 }
-body {
-background-color: black;
-}
 h1 {
 color: white;
 background-color: navy;
@@ -44,6 +41,4 @@ text-decoration: underline;
 }
 p {
 color: white;
-margin-right: 250px;
-margin-left: 250px;
 }
