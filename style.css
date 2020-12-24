@@ -5,11 +5,6 @@ text-align: center;
 title {
 font-family: Times New Roman;
 }
-p {
-color: white;
-margin-right: 250px;
-margin-left: 250px;
-}
 .project_section a:link {
 color: gray;
 text-decoration: none;
