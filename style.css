@@ -41,9 +41,6 @@ cursor: pointer;
 .topnavigation {
 padding: auto;
 float: left;
-}
-.topnavigation a ul{
 color: cyan;
-padding-right: 100px;
 font-size: 25px;
 }
