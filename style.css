@@ -41,15 +41,15 @@ cursor: pointer;
 ul {
 list-style-type: none;
 padding: auto;
-float: left;
 color: cyan;
 font-size: 25px;
+overflow: hidden;
 }
 li {
-display: inline;  
+display: inline; 
+float: left;
 }
-a {
+li a {
 padding: 5px;
 display: block;
-background color: white;
 }
