@@ -1,5 +1,6 @@
 body {
 margin: 100px 100px;
+text-align: center;
 }
 .project_section a:link {
 color: gray;
@@ -17,8 +18,9 @@ color: yellow;
 }
 h1 {
 background-color: red;
+color: white;
 }
-h3 {
+h2 {
 color: white; 
 text-decoration: none;
 }
