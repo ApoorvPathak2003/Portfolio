@@ -12,6 +12,9 @@ text-align: center;
 text-decoration: underline;
 }
 img {
+height: 30%;
+}
+img {
 width: auto;
 height: auto;
 }
