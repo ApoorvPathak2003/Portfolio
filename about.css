@@ -12,6 +12,6 @@ text-align: center;
 text-decoration: underline;
 }
 img {
-width: 25%;
-height: 25%;
+width: auto;
+height: auto;
 }
