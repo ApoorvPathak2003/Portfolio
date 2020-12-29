@@ -2,13 +2,14 @@ body {
 background-color: black;
 }
 p {
+text-align: right;
 color: white;
 margin-right: 200px;
 margin-left: 200px;
 }
 h1 {
 color: red;
-text-align: left;
+text-align: center;
 text-decoration: underline;
 }
 img {
