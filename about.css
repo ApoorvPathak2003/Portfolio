@@ -6,6 +6,7 @@ text-align: center;
 color: white;
 margin-right: 200px;
 margin-left: 200px;
+float: right;
 }
 h1 {
 color: red;
