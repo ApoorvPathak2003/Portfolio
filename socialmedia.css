@@ -4,14 +4,14 @@ text-align: center;
 }
 .project_section a:link {
 color: gray;
-text-decoration: none;
+text-decoration: underline;
 }
 .project_section a:visited {
 color: mediumseagreen;
 }
 .project_section a:hover {
 color: mediumpurple;
-text-decoration: underline;
+text-decoration: none;
 }
 .project_section a:active {
 color: yellow;
