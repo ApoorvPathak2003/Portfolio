@@ -2,18 +2,18 @@ body {
 margin: 80px 100px;
 text-align: center;
 }
-.project_section a:link {
+a:link {
 color: gray;
 text-decoration: underline;
 }
-.project_section a:visited {
+a:visited {
 color: mediumseagreen;
 }
-.project_section a:hover {
+a:hover {
 color: mediumpurple;
 text-decoration: none;
 }
-.project_section a:active {
+a:active {
 color: yellow;
 }
 h1 {
