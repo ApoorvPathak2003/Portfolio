@@ -4,14 +4,14 @@ text-align: center;
 }
 a:link {
 color: gray;
-text-decoration: underline;
+text-decoration: none;
 }
 a:visited {
 color: mediumseagreen;
 }
 a:hover {
 color: mediumpurple;
-text-decoration: none;
+text-decoration: underline;
 }
 a:active {
 color: yellow;
