@@ -29,6 +29,7 @@ color: mediumseagreen;
 .project_section a:hover {
 color: mediumpurple;
 text-decoration: underline;
+background-color: blue;
 }
 .project_section a:active {
 color: yellow;
