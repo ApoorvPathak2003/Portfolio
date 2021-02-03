@@ -19,19 +19,19 @@ text-decoration: underline;
 p {
 color: white;
 }
-.project_section a:link {
+.topnavigation a:link {
 color: gray;
 text-decoration: none;
 }
-.project_section a:visited {
+.topnavigation a:visited {
 color: mediumseagreen;
 }
-.project_section a:hover {
+.topnavigation a:hover {
 color: mediumpurple;
 text-decoration: underline;
 background-color: blue;
 }
-.project_section a:active {
+.topnavigation a:active {
 color: yellow;
 }
 .circle {
