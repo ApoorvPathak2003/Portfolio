@@ -38,6 +38,8 @@ color: yellow;
 border-radius: 50%;
 cursor: move;
 padding: 80px 0;
+width: 100px;
+height: 100px;
 }
 .span {
 cursor: pointer;
@@ -56,4 +58,3 @@ color: white;
 li a {
 text-decoration: none;
 }
-
