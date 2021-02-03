@@ -19,7 +19,7 @@ width: 35%;
 height: 400px;
 float: left;
 }
-.x p{
+p.x {
 padding-top: 100px;
 padding-left: 100px;
 }
