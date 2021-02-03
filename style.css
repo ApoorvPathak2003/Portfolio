@@ -20,7 +20,7 @@ p {
 color: white;
 }
 .topnavigation a:link {
-color: gray;
+color: navy;
 text-decoration: none;
 }
 .topnavigation a:visited {
@@ -29,7 +29,7 @@ color: mediumseagreen;
 .topnavigation a:hover {
 color: mediumpurple;
 text-decoration: underline;
-background-color: blue;
+background-color: ;
 }
 .topnavigation a:active {
 color: yellow;
