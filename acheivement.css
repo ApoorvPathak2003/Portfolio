@@ -5,3 +5,10 @@ height: 300px;
 img{
 float: left;
 }
+p.a{
+font-size: 30px;
+outline-style: solid;
+outline-color: blue;
+margin-top: 50px;
+margin-left: 100px;
+}
