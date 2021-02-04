@@ -2,7 +2,7 @@
 width: 300px;
 height: 300px;
 }
-img.c{
+.c img{
 float: left;
 }
 p.a{
@@ -13,7 +13,7 @@ margin-top: 50px;
 margin-left: 500px;
 width: 410px;
 }
-img.d{
+.d img{
 float: right;
 }
 p.b{
