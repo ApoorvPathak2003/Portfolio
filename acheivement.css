@@ -22,10 +22,10 @@ p.b{
 font-size: 30px;
 outline-style: solid;
 outline-color: blue;
-width: 345px;
-height: 40px;
+width: 520px;
+height: 75px;
 margin-top: 390px;
 }
-span{
+b.span{
 text-align: center;
 }
