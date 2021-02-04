@@ -11,5 +11,16 @@ outline-style: solid;
 outline-color: blue;
 margin-top: 50px;
 margin-left: 500px;
-width: 500px;
+width: 410px;
+}
+img{
+float: right;
+}
+p.b{
+font-size: 30px;
+outline-style: solid;
+outline-color: blue;
+margin-top: 50px;
+margin-right: 500px;
+width: 410px;
 }
