@@ -1,14 +1,14 @@
 .rectangle{
 width: 300px;
 height: 300px;
+float: left;
 }
 .rectangle 1{
 width: 300px;
 height: 300px;
+float: right;
 }
-.c img{
-float: left;
-}
+
 p.a{
 font-size: 30px;
 outline-style: solid;
@@ -16,9 +16,6 @@ outline-color: blue;
 margin-top: 50px;
 margin-left: 500px;
 width: 410px;
-}
-.d img{
-float: right;
 }
 p.b{
 font-size: 30px;
